@@ -8,22 +8,19 @@ import esthelleBirulaImage from "@/assets/esthelleBirula.jpg"
 const team = [
   {
     name: "Robert Kanegamba",
-    title: "Full Stack Software Developer",
+    title: "Software Developer | Product Architect",
     image: robertKaneImage,
-    bio: "Passionate software developer and the founder of YeboPets. I built YeboPets to connect caring teenagers with pet owners who need trusted, affordable services.Before diving into tech, I spent years walking dogs, pet-sitting, and helping families care for their furry friends. That experience shaped my vision: to create a platform that combines reliability, community, and convenience for pet owners."
-  },
+    bio: "Passionate software developer and the founder of YeboPets. I built YeboPets to connect caring teenagers with pet owners who need trusted, affordable services.Before diving into tech, I spent a year and halve walking dogs, pet-sitting, and helping families care for their furry friends. That experience shaped my vision: to create a platform that combines reliability, community, and convenience for pet owners."},
   {
     name: "Daniel Kassy",
-    title: "Lead Dog Trainer",
+    title: "Marketing | Operations Lead",
     image: danielKassyImage,
-    bio: "With certification in positive reinforcement training techniques, Michael helps pets and their owners build stronger relationships through effective training."
-  },
+    bio: "Passionate entrepreneur based in Cape Town, South Africa. I'm the founder of Kassyshotz, a creative brand that focuses on visual storytelling, photography, and digital content. I'm also a co-founder of YeboPets, a platform dedicated to empowering youth through pet-related services and creative opportunities. As part of our journey, Kassyshotz has partnered with YeboPets to bring pet photography to life."},
   {
     name: "Esther Biruli",
-    title: "Pet Care Coordinator",
+    title: "Financial Manager | Accountant",
     image: esthelleBirulaImage, 
-    bio: "Thandi ensures all YeboPets services run smoothly, coordinating our team of pet care specialists and managing client relationships."
-  },
+    bio: "Co-founder and accountant for YeboPets. Here to always ensure that services run smoothly, coordinating our team of pet care specialists and managing client relationships and most importantly ensuring that we grow as a business and set an example to many young people like myself out there to start doing things that they love and a passionate in doing."},
   // {
   //   name: "James Wilson",
   //   title: "Veterinary Consultant",
